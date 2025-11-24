@@ -4,6 +4,10 @@ PhishDetector is a full-stack phishing URL analysis system built using **React**
 
 ---
 
+<img src="./assets/demo.gif" width="750"/>
+
+---
+
 ## 🚀 Features
 
 - 🔍 **Real-Time URL Scan** via Google Safe Browsing  
