@@ -13,7 +13,7 @@ PhishDetector is a full-stack phishing URL analysis system built using **React**
 - 🔐 **Secure Signup & Login** using JWT authentication  
 - 🧹 URL normalization & cleanup  
 - ⚡ Fast & responsive UI with React + TailwindCSS  
-- 🎥 Demo video included: `phishdetectordemo.mp4`
+- 🎥 Demo video included: `demo.mp4`
 
 ---
 
